@@ -1,0 +1,158 @@
+{
+  "Detached": {
+    "lower mainland": {
+      "benchmark_price": "$1,783,900",
+      "1_month_change": "-1.4%",
+      "1_year_change": "-2.8%"
+    },
+    "fraser valley board": {
+      "benchmark_price": "$1,481,900",
+      "1_month_change": "-1.7%",
+      "1_year_change": "-3.2%"
+    },
+    "north delta": {
+      "benchmark_price": "$1,335,200",
+      "1_month_change": "-4.9%",
+      "1_year_change": "-7.3%"
+    },
+    "north surrey": {
+      "benchmark_price": "$1,451,000",
+      "1_month_change": "-2.2%",
+      "1_year_change": "-4.4%"
+    },
+    "surrey": {
+      "benchmark_price": "$1,506,800",
+      "1_month_change": "-1.7%",
+      "1_year_change": "-4.4%"
+    },
+    "cloverdale": {
+      "benchmark_price": "$1,517,000",
+      "1_month_change": "-0.7%",
+      "1_year_change": "-0.9%"
+    },
+    "south surrey & white rock": {
+      "benchmark_price": "$1,889,900",
+      "1_month_change": "-1.1%",
+      "1_year_change": "-2.9%"
+    },
+    "langley": {
+      "benchmark_price": "$1,632,100",
+      "1_month_change": "-1.2%",
+      "1_year_change": "-1.1%"
+    },
+    "abbotsford": {
+      "benchmark_price": "$1,202,700",
+      "1_month_change": "-0.7%",
+      "1_year_change": "-3.1%"
+    },
+    "mission": {
+      "benchmark_price": "$1,019,100",
+      "1_month_change": "-4.0%",
+      "1_year_change": "-2.6%"
+    }
+  },
+  "Townhouse": {
+    "lower mainland": {
+      "benchmark_price": "$975,400",
+      "1_month_change": "0.2%",
+      "1_year_change": "-2.8%"
+    },
+    "fraser valley board": {
+      "benchmark_price": "$832,800",
+      "1_month_change": "-0.03%",
+      "1_year_change": "-2.5%"
+    },
+    "north delta": {
+      "benchmark_price": "$971,400",
+      "1_month_change": "1.1%",
+      "1_year_change": "1.8%"
+    },
+    "north surrey": {
+      "benchmark_price": "$766,600",
+      "1_month_change": "1.1%",
+      "1_year_change": "-4.0%"
+    },
+    "surrey": {
+      "benchmark_price": "$826,500",
+      "1_month_change": "-1.2%",
+      "1_year_change": "-3.8%"
+    },
+    "cloverdale": {
+      "benchmark_price": "$846,800",
+      "1_month_change": "0.1%",
+      "1_year_change": "-3.2%"
+    },
+    "south surrey & white rock": {
+      "benchmark_price": "$956,000",
+      "1_month_change": "0.2%",
+      "1_year_change": "-2.2%"
+    },
+    "langley": {
+      "benchmark_price": "$863,600",
+      "1_month_change": "0.2%",
+      "1_year_change": "-1.2%"
+    },
+    "abbotsford": {
+      "benchmark_price": "$660,600",
+      "1_month_change": "0.7%",
+      "1_year_change": "-1.4%"
+    },
+    "mission": {
+      "benchmark_price": "$676,100",
+      "1_month_change": "2.1%",
+      "1_year_change": "0.2%"
+    }
+  },
+  "Apartment": {
+    "lower mainland": {
+      "benchmark_price": "$702,400",
+      "1_month_change": "-0.8%",
+      "1_year_change": "-2.6%"
+    },
+    "fraser valley board": {
+      "benchmark_price": "$532,700",
+      "1_month_change": "-1.0%",
+      "1_year_change": "-4.0%"
+    },
+    "north delta": {
+      "benchmark_price": "$565,600",
+      "1_month_change": "0.4%",
+      "1_year_change": "-3.7%"
+    },
+    "north surrey": {
+      "benchmark_price": "$470,900",
+      "1_month_change": "-0.8%",
+      "1_year_change": "-6.3%"
+    },
+    "surrey": {
+      "benchmark_price": "$554,000",
+      "1_month_change": "-0.7%",
+      "1_year_change": "-3.4%"
+    },
+    "cloverdale": {
+      "benchmark_price": "$585,500",
+      "1_month_change": "-0.1%",
+      "1_year_change": "-3.6%"
+    },
+    "south surrey & white rock": {
+      "benchmark_price": "$606,900",
+      "1_month_change": "-2.0%",
+      "1_year_change": "-5.8%"
+    },
+    "langley": {
+      "benchmark_price": "$605,300",
+      "1_month_change": "-1.0%",
+      "1_year_change": "-2.3%"
+    },
+    "abbotsford": {
+      "benchmark_price": "$435,000",
+      "1_month_change": "-0.7%",
+      "1_year_change": "-3.7%"
+    },
+    "mission": {
+      "benchmark_price": "$453,000",
+      "1_month_change": "1.1%",
+      "1_year_change": "0.2%"
+    }
+  }
+}
