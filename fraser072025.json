@@ -1,170 +1,143 @@
 {
-  "Detached": [
-    {
-      "region": "fraser valley board",
+  "Detached": {
+    "fraser valley board": {
       "benchmark_price": "$1,451,100",
       "1_month_change": "-0.5%",
       "1_year_change": "-5.1%"
     },
-    {
-      "region": "north delta",
+    "north delta": {
       "benchmark_price": "$1,333,600",
       "1_month_change": "0.8%",
       "1_year_change": "-9.5%"
     },
-    {
-      "region": "north surrey",
+    "north surrey": {
       "benchmark_price": "$1,435,300",
       "1_month_change": "-0.9%",
       "1_year_change": "-5.1%"
     },
-    {
-      "region": "surrey",
+    "surrey": {
       "benchmark_price": "$1,468,200",
       "1_month_change": "-0.8%",
       "1_year_change": "-6.1%"
     },
-    {
-      "region": "cloverdale",
+    "cloverdale": {
       "benchmark_price": "$1,435,500",
       "1_month_change": "-1.9%",
       "1_year_change": "-5.7%"
     },
-    {
-      "region": "south surrey & white rock",
+    "south surrey & white rock": {
       "benchmark_price": "$1,837,300",
       "1_month_change": "-0.5%",
       "1_year_change": "-7.2%"
     },
-    {
-      "region": "langley",
+    "langley": {
       "benchmark_price": "$1,598,600",
       "1_month_change": "-0.1%",
       "1_year_change": "-2.2%"
     },
-    {
-      "region": "abbotsford",
+    "abbotsford": {
       "benchmark_price": "$1,180,200",
       "1_month_change": "-0.9%",
       "1_year_change": "-4.4%"
     },
-    {
-      "region": "mission",
+    "mission": {
       "benchmark_price": "$1,033,100",
       "1_month_change": "0.6%",
       "1_year_change": "-1.5%"
     }
-  ],
-  "Townhouse": [
-    {
-      "region": "fraser valley board",
+  },
+  "Townhouse": {
+    "fraser valley board": {
       "benchmark_price": "$814,900",
       "1_month_change": "-1.1%",
       "1_year_change": "-4.0%"
     },
-    {
-      "region": "north delta",
+    "north delta": {
       "benchmark_price": "$932,900",
       "1_month_change": "1.2%",
       "1_year_change": "-5.5%"
     },
-    {
-      "region": "north surrey",
+    "north surrey": {
       "benchmark_price": "$750,800",
       "1_month_change": "-1.5%",
       "1_year_change": "-1.9%"
     },
-    {
-      "region": "surrey",
+    "surrey": {
       "benchmark_price": "$809,300",
       "1_month_change": "-1.8%",
       "1_year_change": "-5.6%"
     },
-    {
-      "region": "cloverdale",
+    "cloverdale": {
       "benchmark_price": "$821,500",
       "1_month_change": "-2.4%",
       "1_year_change": "-4.3%"
     },
-    {
-      "region": "south surrey & white rock",
+    "south surrey & white rock": {
       "benchmark_price": "$928,200",
       "1_month_change": "-0.7%",
       "1_year_change": "-4.3%"
     },
-    {
-      "region": "langley",
+    "langley": {
       "benchmark_price": "$852,300",
       "1_month_change": "-0.9%",
       "1_year_change": "-3.0%"
     },
-    {
-      "region": "abbotsford",
+    "abbotsford": {
       "benchmark_price": "$653,400",
       "1_month_change": "-0.3%",
       "1_year_change": "-2.0%"
     },
-    {
-      "region": "mission",
+    "mission": {
       "benchmark_price": "$663,000",
       "1_month_change": "0.5%",
       "1_year_change": "-3.3%"
     }
-  ],
-  "Apartment": [
-    {
-      "region": "fraser valley board",
+  },
+  "Apartment": {
+    "fraser valley board": {
       "benchmark_price": "$519,300",
       "1_month_change": "-1.4%",
       "1_year_change": "-5.8%"
     },
-    {
-      "region": "north delta",
+    "north delta": {
       "benchmark_price": "$555,800",
       "1_month_change": "-0.4%",
       "1_year_change": "-4.8%"
     },
-    {
-      "region": "north surrey",
+    "north surrey": {
       "benchmark_price": "$458,200",
       "1_month_change": "-1.1%",
       "1_year_change": "-7.9%"
     },
-    {
-      "region": "surrey",
+    "surrey": {
       "benchmark_price": "$547,400",
       "1_month_change": "-0.1%",
       "1_year_change": "-4.3%"
     },
-    {
-      "region": "cloverdale",
+    "cloverdale": {
       "benchmark_price": "$580,700",
       "1_month_change": "1.0%",
       "1_year_change": "-3.0%"
     },
-    {
-      "region": "south surrey & white rock",
+    "south surrey & white rock": {
       "benchmark_price": "$584,400",
       "1_month_change": "-0.8%",
       "1_year_change": "-8.0%"
     },
-    {
-      "region": "langley",
+    "langley": {
       "benchmark_price": "$590,900",
       "1_month_change": "-1.5%",
       "1_year_change": "-4.4%"
     },
-    {
-      "region": "abbotsford",
+    "abbotsford": {
       "benchmark_price": "$424,400",
       "1_month_change": "-3.9%",
       "1_year_change": "-5.3%"
     },
-    {
-      "region": "mission",
+    "mission": {
       "benchmark_price": "$441,500",
       "1_month_change": "-2.6%",
       "1_year_change": "-5.4%"
     }
-  ]
+  }
 }
