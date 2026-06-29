@@ -1,0 +1,24 @@
+[
+    {
+        "url": "1248-riverside-drive-delta-bc.html",
+        "price": "4,899,000",
+        "address": "1248 Riverside Drive, Delta, BC",
+        "beds": "5",
+        "baths": "6",
+        "sqft": "5,200",
+        "imageSrc": "_media/Documents/featured-maison.png",
+        "imageAlt": "1248 Riverside Drive, Delta, BC",
+        "id": "1001"
+    },
+    {
+        "url": "3333-riverside-drive-delta-bc.html",
+        "price": "5,899,000",
+        "address": "3333 Riverside Drive, Delta, BC",
+        "beds": "5",
+        "baths": "6",
+        "sqft": "5,200",
+        "imageSrc": "_media/Documents/Screenshot%202026-06-15%20at%2010.06.53%E2%80%AFPM.jpg",
+        "imageAlt": "3333 Riverside Drive, Delta, BC",
+        "id": "1003"
+    }
+]
