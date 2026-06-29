@@ -11,6 +11,20 @@
         "id": "1001"
     },
     {
+            "image": {
+                "src": "_media/Documents/BusinessCard.png",
+                "color": ""
+            },
+            "url": "2222-main-street-delta-bc.html",
+            "price": "4,899,000",
+            "address": "2222 Main Street, Delta, BC",
+            "beds": "5",
+            "baths": "6",
+            "sqft": "5,200",
+            "expiryDate": "2026-09-22",
+            "id": "1002"
+        },
+    {
         "url": "3333-riverside-drive-delta-bc.html",
         "price": "5,899,000",
         "address": "3333 Riverside Drive, Delta, BC",
