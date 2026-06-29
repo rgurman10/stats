@@ -11,10 +11,7 @@
         "id": "1001"
     },
     {
-            "image": {
-                "src": "_media/Documents/BusinessCard.png",
-                "color": ""
-            },
+            "imageSrc": "_media/Documents/BusinessCard.png",
             "url": "2222-main-street-delta-bc.html",
             "price": "4,899,000",
             "address": "2222 Main Street, Delta, BC",
